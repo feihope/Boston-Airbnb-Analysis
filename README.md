@@ -6,7 +6,7 @@ The main purpose of this project is to use CRISP-DM process find solutions.
 Please refer to medium posting link: https://medium.com/@AbdulazizKTA/write-a-data-science-blog-post-f8c5e1ece761
 
 # Data Set
-In the Aribnb data analysis project, I use listing and canlendar data set. 
+In the Aribnb data analysis project, I use listing and canlendar data set. The canlandar data set file is too larger to upload into github. This data set can be downloaded from http://insideairbnb.com/get-the-data.html, archiving Boston Airbnb data on July 2021.
 
 # Libraries
 - Numpy
