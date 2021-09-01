@@ -2,6 +2,12 @@
 I use the free Airbnb data set from url http://insideairbnb.com/get-the-data.html. To understand the Airbnb most recent industry trend, I pulled data posted on July 2021 instead of using historical data on Kaggle. 
 The main purpose of this project is to use CRISP-DM process find solutions.
 
+# Questions to dig deep
+What’s the most popular listing type in Airbnb? How do the listing types impact the listing price?
+What other factors will influence the listing price?
+What’s the best time to visit Boston?
+Can we use the limit data to estimate the listing price?
+
 # Medium Posting
 Please refer to medium posting link: https://medium.com/@feihope2121/how-to-choose-a-listings-price-in-boston-5f70deb594fb
 
